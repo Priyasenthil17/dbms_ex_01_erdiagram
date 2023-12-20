@@ -1,1 +1,7 @@
-# dbms_ex_01_erdiagram
+# CREATE ER DIAGRAM FOR HOSPITAL MANAGEMENT SYSTEM.
+
+## AIM
+
+## ALGORITHM
+
+## OUTPUT

@@ -35,3 +35,4 @@ RegisterNumber:
 
 
 ## RESULT
+  Thus the ER diagram for RoadWay Travel Management System was executed and verified successfully.
